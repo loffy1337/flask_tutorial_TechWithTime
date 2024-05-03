@@ -5,3 +5,4 @@
 3. Наследование шаблонов и подключение Bootstrap (Adding Bootstrap and Template Inheritance)
 4. Работа с HTTP методами и получение данных из форм (HTTP Methods (GET/POST) & Retrieving Form Data)
 5. Работа с сессиями (Sessions)
+6. Всплывающие сообщения (Message Flashing)
